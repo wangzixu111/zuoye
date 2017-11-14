@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:1:{s:72:"D:\phpStudy\WWW\xinwen\public/../application/index\view\index\index.html";i:1510308361;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:1:{s:72:"D:\phpStudy\WWW\xinwen\public/../application/index\view\index\index.html";i:1510631616;}*/ ?>
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -143,9 +143,9 @@
 			 <div class="col-md-4 fotter-list">
 				 <h3>联系我们</h3>
 				 <ul>
-					 <li><a>电话：1111111111</a></li>
-					 <li><a>手机：1111111111</a></li>
-					 <li><a>地址：xx路xx街道008号</a></li>
+					 <li><a>电话：88888888</a></li>
+					 <li><a>手机：15842696705</a></li>
+					 <li><a>地址：软件园路8号</a></li>
 				 </ul>
 			 </div>
 			 <div class="clearfix"></div>
